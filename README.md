@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket Shirsat
-- 👀 I’m interested in data science, analytics and machine learning
-- 🌱 I’m currently learning machine learning.
+- 👀 I’m currently working in data science, analytics and machine learning
+- 🌱 I’m currently working on machine learning.
 
 
 <!---
