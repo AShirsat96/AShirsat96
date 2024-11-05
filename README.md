@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Aniket Shirsat
+- I am currently doing Masters of Science in Applied Data Science
 - 👀 I’m currently working in data science, analytics and machine learning
 - 🌱 I’m currently working on machine learning.
 
