@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Aniket Shirsat from Singapore
-- I am currently living in Indianapolis, Indiana
+- 👋 Hi, I’m Aniket Shirsat from Singapore, currently living in Indianapolis, Indiana
 - Masters of Science in Applied Data Science in Indiana University, Indianapolis
 - Masters of Science in Management (Finance Track) from Singapore Management University
 - 👀 I’m currently working in data science, analytics and machine learning
