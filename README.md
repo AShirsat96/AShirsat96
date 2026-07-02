@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-red)
+
+
 # Hi, I'm Aniket Shirsat 👋
 
 ## AI Engineer | Data Scientist | Generative AI | Machine Learning
@@ -111,3 +118,5 @@ Pandas • NumPy • Tableau • Power BI • Plotly
 💼 LinkedIn: https://www.linkedin.com/in/aniketshirsatsg/
 
 📧 Email: aniketdshirsat@hotmail.com
+
+
