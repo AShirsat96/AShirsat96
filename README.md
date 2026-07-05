@@ -1,122 +1,138 @@
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
-![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-red)
-
-
 # Hi, I'm Aniket Shirsat 👋
 
-## AI Engineer | Data Scientist | Generative AI | Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-E63946)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 
-I am a Singapore-based AI Engineer and Data Scientist passionate about building practical AI systems that solve real-world business problems.
+## AI Engineer | Data Scientist | Generative AI
 
-My experience spans machine learning, Generative AI, NLP, document intelligence, predictive analytics, and cloud AI solutions. I enjoy taking ideas from concept to deployment by combining data science, software engineering, and business understanding.
+I build production-oriented AI systems that combine machine learning, Generative AI, cloud technologies, and modern software engineering.
 
----
-
-## About Me
-
-- 🇸🇬 Singapore Citizen
-- 🎓 M.S. Applied Data Science, Indiana University
-- 🎓 M.S. Management (Finance), Singapore Management University
-- 💼 Data Scientist at Nautarex Systems
-- 🌱 Currently exploring Agentic AI, Multi-Agent Systems, and Enterprise AI Applications
-- 💬 Interested in AI Engineering, Machine Learning, Applied Research, and Cloud AI
+My work spans Retrieval-Augmented Generation (RAG), multi-agent AI systems, intelligent document processing, predictive analytics, cloud-native machine learning, and enterprise AI applications. I enjoy taking ideas from experimentation through deployment to deliver practical AI solutions for real-world business problems.
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-### Intelligent Document Processing
-Automated invoice processing pipeline using Amazon Textract, AWS S3, and Python to extract structured information from business documents.
+## 🤖 Multi-Agent Insurance Support System
+
+Enterprise multi-agent AI assistant built using LangGraph, OpenAI, ChromaDB, and SQLite to automate insurance support workflows with specialized AI agents.
 
 **Tech Stack**
-Python • AWS Textract • S3 • OCR • Document AI
+
+LangGraph • OpenAI • ChromaDB • SQLite • Python • Agentic AI
 
 ---
 
-### AI PDF Support Chatbot
-Built a Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from uploaded PDF documents using OpenAI and LlamaIndex.
+## 🩺 End-to-End Diabetes Risk Prediction System
+
+End-to-end machine learning pipeline built using Apache Spark, AWS SageMaker Serverless, and Dash featuring a live deployed clinical risk assessment dashboard.
 
 **Tech Stack**
-Python • OpenAI • LlamaIndex • FAISS • RAG
+
+Apache Spark • PySpark ML • AWS SageMaker • Dash • Plotly • Python
 
 ---
 
-### Multi-Agent Insurance Assistant
-Developed a multi-agent AI assistant using LangGraph to coordinate specialized AI agents for insurance support workflows.
+## 📄 Intelligent Document Processing
+
+Automated invoice processing solution using Amazon Textract and AWS cloud services to extract structured business information from invoices and receipts.
 
 **Tech Stack**
-LangGraph • OpenAI • Python • Agentic AI
+
+AWS Textract • Amazon S3 • Python • OCR • Document AI
 
 ---
 
-### Fuel Consumption Optimization
-Developed machine learning models to optimize marine fuel consumption and improve operational efficiency.
+## 📚 AI PDF Support Chatbot
+
+Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from uploaded PDF documents using OpenAI and LlamaIndex.
 
 **Tech Stack**
-Python • XGBoost • Machine Learning • Time Series
+
+OpenAI • LlamaIndex • FAISS • Python • RAG
 
 ---
 
-### Student Churn Prediction
-Developed an end-to-end machine learning web application for predicting student attrition using Streamlit.
+## 💻 Local AI Code Assistant
+
+Privacy-first coding assistant powered by Ollama that allows users to upload source code for AI-assisted analysis without relying on cloud-hosted LLMs.
 
 **Tech Stack**
+
+Python • Ollama • Gradio • Local LLMs
+
+---
+
+## ⛽ Marine Fuel Consumption Optimization
+
+Machine learning models for predicting and optimizing marine fuel consumption to improve operational efficiency and reduce fuel costs.
+
+**Tech Stack**
+
+Python • XGBoost • Scikit-learn • Machine Learning
+
+---
+
+## 🎓 Student Churn Prediction
+
+End-to-end predictive analytics application for identifying students at risk of attrition using machine learning and interactive visualizations.
+
+**Tech Stack**
+
 Python • Scikit-learn • Streamlit • Plotly
 
 ---
 
-# Technical Skills
+# 🛠 Technical Skills
 
-### Languages
+## Programming
 
 Python • SQL • R • Flutter
 
-### Machine Learning
+## Machine Learning
 
-Scikit-learn • TensorFlow • PyTorch • XGBoost
+Scikit-learn • TensorFlow • PyTorch • XGBoost • CatBoost • Apache Spark • PySpark ML
 
-### Generative AI
+## Generative AI
 
 OpenAI API • LangChain • LangGraph • LlamaIndex • Ollama • Prompt Engineering • RAG • FAISS
 
-### Cloud
+## Cloud
 
-AWS (Bedrock, Textract, SageMaker, Lambda, Rekognition, SES)
+AWS (SageMaker, Bedrock, Textract, Lambda, Rekognition, SES)
 
-Azure Databricks
+Google Cloud (Vertex AI, Gemini, Document AI)
 
-Azure Data Factory
+Microsoft Azure
 
-Google Cloud Document AI
-
-### Data
+## Data & Analytics
 
 Pandas • NumPy • Tableau • Power BI • Plotly
 
 ---
 
-# Current Interests
+# 🌱 Currently Exploring
 
-- Generative AI
-- Agentic AI
+- Enterprise Agentic AI
 - Multi-Agent Systems
-- Document AI
-- NLP
-- Machine Learning
-- Cloud AI
-- AI for Enterprise Applications
+- Production AI Engineering
+- Cloud AI Applications
+- Intelligent Document Processing
+- Enterprise RAG Systems
 
 ---
 
-# Connect with Me
+# 📫 Connect With Me
 
-🌐 Website: https://aniketdshirsat.com
+🌐 **Portfolio**  
+https://aniketdshirsat.com
 
-💼 LinkedIn: https://www.linkedin.com/in/aniketshirsatsg/
+💼 **LinkedIn**  
+https://www.linkedin.com/in/aniketshirsatsg/
 
-📧 Email: aniketdshirsat@hotmail.com
-
-
+📧 **Email**  
+aniketdshirsat@hotmail.com
