@@ -1,138 +1,158 @@
 # Hi, I'm Aniket Shirsat 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-E63946)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-red)
 
-## AI Engineer | Data Scientist | Generative AI
+## Data Scientist | AI Practitioner
 
-I build production-oriented AI systems that combine machine learning, Generative AI, cloud technologies, and modern software engineering.
+I am a Singapore-based **Data Scientist and AI Practitioner** passionate about building intelligent AI systems that solve real-world business problems.
 
-My work spans Retrieval-Augmented Generation (RAG), multi-agent AI systems, intelligent document processing, predictive analytics, cloud-native machine learning, and enterprise AI applications. I enjoy taking ideas from experimentation through deployment to deliver practical AI solutions for real-world business problems.
+My work spans **Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, Cloud AI, Document Intelligence, Predictive Analytics, and Enterprise AI Applications**.
+
+I enjoy taking AI solutions from concept to deployment by combining data science, software engineering, and cloud technologies to build practical, production-ready AI systems.
 
 ---
 
-# 🚀 Featured Projects
+# About Me
 
-## 🤖 Multi-Agent Insurance Support System
+- 🇸🇬 Singapore Citizen
+- 🎓 M.S. Applied Data Science, Indiana University Indianapolis (4.0/4.0 GPA)
+- 🎓 M.S. Management (Finance), Singapore Management University
+- 💼 Data Scientist at Nautarex Systems
+- 🌱 Currently exploring Agentic AI, Enterprise AI, Multi-Agent Systems, and Production AI Applications
+- 💬 Interested in Applied AI, Machine Learning, Cloud AI, and Enterprise AI Solutions
 
-Enterprise multi-agent AI assistant built using LangGraph, OpenAI, ChromaDB, and SQLite to automate insurance support workflows with specialized AI agents.
+---
+
+# Featured Projects
+
+## 🤖 Multi-Agent Insurance System
+
+Enterprise AI assistant built using LangGraph that coordinates multiple specialized AI agents for customer support, billing, payment history, policy information, and human escalation workflows.
 
 **Tech Stack**
 
-LangGraph • OpenAI • ChromaDB • SQLite • Python • Agentic AI
+LangGraph • OpenAI • ChromaDB • SQLite • Agentic AI
+
+---
+
+## 📊 AI Business Analytics Assistant
+
+Multi-agent AI system that converts natural language into SQL, executes database queries, generates business insights, and produces interactive Plotly visualizations.
+
+**Tech Stack**
+
+LangGraph • Chainlit • OpenAI • SQLite • Plotly
 
 ---
 
 ## 🩺 End-to-End Diabetes Risk Prediction System
 
-End-to-end machine learning pipeline built using Apache Spark, AWS SageMaker Serverless, and Dash featuring a live deployed clinical risk assessment dashboard.
+End-to-end machine learning application using Apache Spark and AWS SageMaker Serverless to predict diabetes risk through an interactive Dash application.
 
 **Tech Stack**
 
-Apache Spark • PySpark ML • AWS SageMaker • Dash • Plotly • Python
+Python • Apache Spark • AWS SageMaker • Dash • Machine Learning
 
 ---
 
 ## 📄 Intelligent Document Processing
 
-Automated invoice processing solution using Amazon Textract and AWS cloud services to extract structured business information from invoices and receipts.
+Cloud-based invoice processing pipeline using AWS Textract to automatically extract structured information from invoices and expense receipts.
 
 **Tech Stack**
 
-AWS Textract • Amazon S3 • Python • OCR • Document AI
+AWS Textract • Python • OCR • Document AI
 
 ---
 
-## 📚 AI PDF Support Chatbot
+## 🎤 Speech Emotion Recognition with Wav2Vec2
 
-Retrieval-Augmented Generation (RAG) chatbot capable of answering questions from uploaded PDF documents using OpenAI and LlamaIndex.
+Transformer-based Speech Emotion Recognition system using Wav2Vec2, Attentive Statistical Pooling, and Additive Margin Softmax for emotion classification.
 
 **Tech Stack**
 
-OpenAI • LlamaIndex • FAISS • Python • RAG
+PyTorch • Hugging Face Transformers • Wav2Vec2 • Audio AI
 
 ---
 
-## 💻 Local AI Code Assistant
+# Technical Skills
 
-Privacy-first coding assistant powered by Ollama that allows users to upload source code for AI-assisted analysis without relying on cloud-hosted LLMs.
-
-**Tech Stack**
-
-Python • Ollama • Gradio • Local LLMs
-
----
-
-## ⛽ Marine Fuel Consumption Optimization
-
-Machine learning models for predicting and optimizing marine fuel consumption to improve operational efficiency and reduce fuel costs.
-
-**Tech Stack**
-
-Python • XGBoost • Scikit-learn • Machine Learning
-
----
-
-## 🎓 Student Churn Prediction
-
-End-to-end predictive analytics application for identifying students at risk of attrition using machine learning and interactive visualizations.
-
-**Tech Stack**
-
-Python • Scikit-learn • Streamlit • Plotly
-
----
-
-# 🛠 Technical Skills
-
-## Programming
+## Programming Languages
 
 Python • SQL • R • Flutter
 
-## Machine Learning
+---
 
-Scikit-learn • TensorFlow • PyTorch • XGBoost • CatBoost • Apache Spark • PySpark ML
+## AI & Generative AI
 
-## Generative AI
+OpenAI API • LangGraph • LangChain • LlamaIndex • Ollama • Prompt Engineering • Agentic AI • Retrieval-Augmented Generation (RAG)
 
-OpenAI API • LangChain • LangGraph • LlamaIndex • Ollama • Prompt Engineering • RAG • FAISS
+---
 
-## Cloud
+## Machine Learning & Deep Learning
 
-AWS (SageMaker, Bedrock, Textract, Lambda, Rekognition, SES)
+PyTorch • TensorFlow • Scikit-learn • XGBoost • Hugging Face Transformers
 
-Google Cloud (Vertex AI, Gemini, Document AI)
+---
+
+## Cloud & AI Platforms
+
+AWS (Textract, SageMaker, Lambda, Rekognition, SES)
+
+Google Cloud (Vertex AI, Gemini)
 
 Microsoft Azure
 
-## Data & Analytics
+---
 
-Pandas • NumPy • Tableau • Power BI • Plotly
+## Data Science & Visualization
+
+Pandas • NumPy • Plotly • Tableau • Power BI
 
 ---
 
-# 🌱 Currently Exploring
+# Current Interests
 
-- Enterprise Agentic AI
+- Agentic AI
+- Enterprise AI Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - Multi-Agent Systems
-- Production AI Engineering
-- Cloud AI Applications
-- Intelligent Document Processing
-- Enterprise RAG Systems
+- Document Intelligence
+- Machine Learning
+- Cloud AI
+- AI for Business Applications
 
 ---
 
-# 📫 Connect With Me
+# Featured Repositories
 
-🌐 **Portfolio**  
+⭐ Multi-Agent Insurance System
+
+⭐ AI Business Analytics Assistant
+
+⭐ End-to-End Diabetes Risk Prediction System
+
+⭐ AWS Textract Invoice Analyzer
+
+⭐ Speech Emotion Recognition with Wav2Vec2
+
+---
+
+# Connect with Me
+
+🌐 **Portfolio**
+
 https://aniketdshirsat.com
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/aniketshirsatsg/
 
-📧 **Email**  
+📧 **Email**
+
 aniketdshirsat@hotmail.com
